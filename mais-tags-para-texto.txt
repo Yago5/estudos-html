@@ -1,0 +1,11 @@
+<html>
+    <body>
+        <p>Olá <b>Mundo</b></p>
+        <p>Olá <u>Mundo</u></p>
+        <p>Olá <i>Mundo</i></p>
+        <p>Olá <span>Mundo</span></p>
+        <span>Olá Mundo</span><span>
+            <span>Olá Mundo</span>
+    </body>
+<!--Copie e cole o link de prévia no seu navegador http://127.0.0.1:5500/aula2.html-->
+</html>
