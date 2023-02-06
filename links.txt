@@ -9,9 +9,9 @@
             </div>
         </header>
         <div>
-            <a href="https://bit.ly/3YpZGfB">Home</a>
-            <a href="https://bit.ly/40zKcaU">Termos e Política</a>
-            <a href="https://bit.ly/3wXmaJh">Fórum</a>
+            <a target="_blank" href="https://bit.ly/3YpZGfB">Home</a>
+            <a target="_blank" href="https://bit.ly/40zKcaU">Termos e Política</a>
+            <a target="_blank" href="https://bit.ly/3wXmaJh">Fórum</a>
         </div>
         <section>
             <div>
