@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Meu website</title>
+    </head>
+    <body>
+        <header>
+            <div>
+                <h2>Logomarca</h2>
+            </div>
+        </header>
+        <div>
+            <a href="https://bit.ly/3YpZGfB">Home</a>
+            <a href="https://bit.ly/40zKcaU">Termos e Política</a>
+            <a href="https://bit.ly/3wXmaJh">Fórum</a>
+        </div>
+        <section>
+            <div>
+                <h2>Sobre o meu website</h2>
+                <p>Falando do meu website, aqui é um texto</p>
+            </div>
+        </section>
+    </body>
+<!--Copie e cole o link de prévia no seu navegador https://bit.ly/3wXmaJh-->
+</html>
