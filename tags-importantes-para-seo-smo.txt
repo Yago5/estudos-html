@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Danki code - Os melhores cursos</title>
+        <!--seo-->
+    <meta name="description" content="Danki code mais de 60 mil alunos" />
+
+    <!--smo-->>
+    <meta pronpety="og.title" content="Danki code - Mais de 60 mil alunos">
+    <meta pronpety="og:size-name" content="Danki Code">
+    <meta pronpety="og:description" content="Danki code - Mais de 60 mil alunos - programação web, Games e Marketing Digital.">
+    <meta pronpety="og:url" content="https://www.dankicode.com.br">
+    <meta prompety="og:image" content="https://curso/www.dankicode.com.br">
+    <meta pronpety="og.image:type" content="image/jpeg">
+    </head>
+</html>
