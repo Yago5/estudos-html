@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Meu website</title>
+        <meta charset="UTF-8" />
+    </head>
+    <body>
+        <header>
+            <div>
+                <h2>Logomarca</h2>
+            </div>
+            <nav>
+                <ul>
+                    <li><a target="_blank" href="https://bit.ly/2Nph0Rc">Home</a></li>
+                    <li><a target="_blank" href="https://bit.ly/3I1E9Ez">Login</a></li>
+                    <li><a target="_blank" href="https://bit.ly/3jCoBhg">Fórum</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section>
+            <div>
+                <img src="https://bit.ly/3JLssDq" alt="Desenvolvimento-de-games-danki-code">
+                <h2>Sobre o meu website</h2>
+                <p>Falando sobre o meu website, aqui é um texto.</p>
+            </div>
+        </section>
+    </body>
+<!--Copie e cole o link de prévia no seu navegador http://127.0.0.1:5500/marcando-website.html-->
+</html>
